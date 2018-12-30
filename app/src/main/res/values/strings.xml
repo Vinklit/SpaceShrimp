@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SpaceShrimp</string>
+    <string name="app_name">Space Shrimp</string>
+    <string name="title_activity_game">ActivityGame</string>
 </resources>
